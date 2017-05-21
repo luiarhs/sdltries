@@ -30,6 +30,8 @@ typedef struct nodo {
     void SDL_Loadimg();
     //Load ogg audios
     void SDL_Loadaudio();
+    //Load ttf fonts
+    void SDL_Loadfnt();
     //Load Marios Bross Sprites
     void SDL_Mario();
     //SDL_Surface
